@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/Java/jdk1.8.0_91"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-api-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-common-utilities-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-rt-bindings-xml-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-rt-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-rt-frontend-jaxrs-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-rt-transports-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/cxf-rt-transports-http-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jackson-core-asl-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jackson-jaxrs-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jackson-mapper-asl-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jaxb-impl-2.1.13.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jettison-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/neethi-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-aop-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-beans-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-context-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-expression-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/spring-web-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/xmlschema-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/dozer-5.3.2.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/dozen/common-lang3.jar"/>
+	<classpathentry kind="lib" path="/home/chouhapr/Jars/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

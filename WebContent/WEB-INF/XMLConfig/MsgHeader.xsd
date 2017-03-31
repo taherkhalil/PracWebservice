@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+         <!-- XML Schema Generated from XML Document on Mon Nov 14 2016 18:46:55 GMT+0530 (India Standard Time) -->
+         <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+         <xs:element name="BASE24">
+               <xs:complexType>
+                     <xs:sequence>
+                           <xs:element name="MSGHEADER">
+                                 <xs:complexType>
+                                       <xs:sequence>
+                                             <xs:element name="SCCGP">
+                                                   <xs:complexType>
+                                                         <xs:sequence>
+                                                               <xs:element name="TERMID" type="xs:string"></xs:element>
+                                                               <xs:element name="OMFAUDIT" type="xs:int"></xs:element>
+                                                               <xs:element name="FRMTCDE" type="xs:string"></xs:element>
+                                                               <xs:element name="REPLCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="FIID" type="xs:string"></xs:element>
+                                                               <xs:element name="REGN" type="xs:string"></xs:element>
+                                                               <xs:element name="BRCH" type="xs:string"></xs:element>
+                                                               <xs:element name="USERGRP" type="xs:int"></xs:element>
+                                                               <xs:element name="USERNUM" type="xs:int"></xs:element>
+                                                               <xs:element name="SITEPRODIND" type="xs:int"></xs:element>
+                                                               <xs:element name="ERRCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="ERRSUBCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="PTD_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="RDF_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="PIN_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="SYSTEM" type="xs:string"></xs:element>
+                                                               <xs:element name="PATHMON" type="xs:string"></xs:element>
+                                                               <xs:element name="LN" type="xs:string"></xs:element>
+                                                               <xs:element name="LCONFNAME" type="xs:string"></xs:element>
+															  <xs:element name="TRANCDE" type="xs:string"></xs:element>
+															   <xs:element name="APPLCDE" type="xs:string"></xs:element>
+															   <xs:element name="ERRNUM" type="xs:string"></xs:element>
+															   <xs:element name="ERRTXT" type="xs:string"></xs:element>
+                                                         </xs:sequence>
+                                                   </xs:complexType>
+                                             </xs:element>
+                                             <xs:element name="MCCGP">
+                                                   <xs:complexType>
+                                                         <xs:sequence>
+                                                               <xs:element name="TERMID" type="xs:string"></xs:element>
+                                                               <xs:element name="OMFAUDIT" type="xs:int"></xs:element>
+                                                               <xs:element name="FRMTCDE" type="xs:string"></xs:element>
+                                                               <xs:element name="REPLCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="FIID" type="xs:string"></xs:element>
+                                                               <xs:element name="REGN" type="xs:string"></xs:element>
+                                                               <xs:element name="BRCH" type="xs:string"></xs:element>
+                                                               <xs:element name="USERGRP" type="xs:int"></xs:element>
+                                                               <xs:element name="USERNUM" type="xs:int"></xs:element>
+                                                               <xs:element name="SITEPRODIND" type="xs:int"></xs:element>
+                                                               <xs:element name="ERRCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="ERRSUBCDE" type="xs:int"></xs:element>
+                                                               <xs:element name="PTD_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="RDF_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="PIN_SERVER" type="xs:string"></xs:element>
+                                                               <xs:element name="SYSTEM" type="xs:string"></xs:element>
+                                                               <xs:element name="PATHMON" type="xs:string"></xs:element>
+                                                               <xs:element name="LN" type="xs:string"></xs:element>
+                                                               <xs:element name="LCONFNAME" type="xs:string"></xs:element>
+															   <xs:element name="TRANCDE" type="xs:string"></xs:element>
+															   <xs:element name="APPLCDE" type="xs:string"></xs:element>
+															   <xs:element name="ERRNUM" type="xs:string"></xs:element>
+															   <xs:element name="ERRTXT" type="xs:string"></xs:element>
+                                                         </xs:sequence>
+                                                   </xs:complexType>
+                                             </xs:element>
+                                       </xs:sequence>
+                                 </xs:complexType>
+                           </xs:element>
+                     </xs:sequence>
+               </xs:complexType>
+         </xs:element>
+   </xs:schema>
+ 
